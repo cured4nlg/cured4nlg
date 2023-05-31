@@ -1,0 +1,5 @@
+Globally, over {GLOBAL_NEW_CASES} new cases and {GLOBAL_NEW_DEATHS} new deaths have been reported to WHO in the past week.
+A cumulative total of {GLOBAL_CUMULATIVE_CASES} cases and {GLOBAL_CUMULATIVE_DEATHS} deaths have been reported since the start of the outbreak.
+The number of new cases {GLOBAL_NEW_CASES_CHANGE_DESCRIPTOR} by {GLOBAL_NEW_CASES_CHANGE}% and the number of new deaths {GLOBAL_NEW_DEATHS_CHANGE_DESCRIPTOR} by {GLOBAL_NEW_DEATHS_CHANGE}% globally in the last 7 days.
+The WHO Region of {MOST_AFFECTED_REGION} was the most affected region with {MOST_AFFECTED_NEW_CASES} new cases and {MOST_AFFECTED_NEW_DEATHS} new deaths.
+This region noted {MOST_AFFECTED_CASES_CHANGE_DESCRIPTOR} of {MOST_AFFECTED_CASES_CHANGE}% in new cases since the last week and accounts for {MOST_AFFECTED_NEW_CASES_SHARE}% of all new cases.

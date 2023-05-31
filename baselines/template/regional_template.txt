@@ -1,0 +1,3 @@
+The region of {REGION} reported over {REGION_NEW_CASES} new cases and {REGION_NEW_DEATHS} new deaths this week, a {REGION_NEW_CASES_CHANGE}% {REGION_NEW_CASES_CHANGE_DESCRIPTOR} and a {REGION_NEW_DEATHS_CHANGE}% {REGION_NEW_CASES_CHANGE_DESCRIPTOR} respectively compared to the previous week.
+The highest numbers of new cases were reported from {MOST_AFFECTED_COUNTRIES_BY_CASES}.
+The highest numbers of new deaths were reported from {MOST_AFFECTED_COUNTRIES_BY_DEATHS}.
