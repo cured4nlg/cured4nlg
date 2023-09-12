@@ -2,7 +2,7 @@
 
 CURED4NLG is designed as a resource to motivate further research into data-to-text generation. 
 
-For further details, see our paper / poster, presented at [LDK 2023 – 4th Conference on Language, Data and Knowledge](http://2023.ldk-conf.org).
+For further details, see our [paper](./CURED4NLG%20Paper.pdf) / [poster](CURED4NLG%20Poster.pdf), presented at [LDK 2023 – 4th Conference on Language, Data and Knowledge](http://2023.ldk-conf.org).
 
 If you use this data, please cite the above paper.
 
